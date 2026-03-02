@@ -17,8 +17,9 @@ Aplicativo Android desenvolvido em Kotlin usando Jetpack Compose para gerar senh
 - Android Studio
 
 ## Screenshot
+[Screen_recording_20260302_160405.webm](https://github.com/user-attachments/assets/8fe3cc6d-4368-4bb2-af20-fff94a7f727a)
 
-(em breve)
+
 
 ## Como executar
 
